@@ -10,7 +10,7 @@ const nextConfig = {
       'encrypted-tbn0.gstatic.com',
       'avatars.dicebear.com',
       'png.pngtree.com',
-    ],
+    ],    
   },
 }
  
